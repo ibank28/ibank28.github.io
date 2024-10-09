@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/static/css/main.fef05d4e.css",
+    "main.js": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/static/js/main.e8fe4200.js",
+    "static/js/453.814d7853.chunk.js": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/static/js/453.814d7853.chunk.js",
+    "static/media/logo.png": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/static/media/logo.9c688f64557e27f5b6b4.png",
+    "static/media/img5.png": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/static/media/img5.c6b49ad21e0d54f7f95a.png",
+    "static/media/img4.png": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/static/media/img4.6815847405132c2ca6ec.png",
+    "static/media/img2.png": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/static/media/img2.41600cf8145f35ba950e.png",
+    "index.html": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/index.html",
+    "main.fef05d4e.css.map": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/static/css/main.fef05d4e.css.map",
+    "main.e8fe4200.js.map": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/static/js/main.e8fe4200.js.map",
+    "453.814d7853.chunk.js.map": "https://ibank28.github.io/Logout-Aktivitas-LoginDANA/static/js/453.814d7853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef05d4e.css",
+    "static/js/main.e8fe4200.js"
+  ]
+}
